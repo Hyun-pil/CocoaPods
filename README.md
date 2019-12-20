@@ -1,12 +1,14 @@
 # CocoaPods
 
 1. 터미널 실행 Command 실행
-  1. "sudo gem install cocoapods"
-  2. "pod setup"
-  3. "Performing a deep fetch of the 'master'"
-  specs repo to improve performance 가 나오면
-  4. "rm -fr ./cocoapods/repos/master"
-  5. "pod setup"
+
+    1. "sudo gem install cocoapods"
+    2. "pod setup"
+    3. "Performing a deep fetch of the 'master'"
+    specs repo to improve performance 가 나오면
+    
+    4. "rm -fr ./cocoapods/repos/master"
+     5. "pod setup"
   
 2.1.1. workspace create
 2.1.2. project create
