@@ -10,13 +10,11 @@
 
 2. project 생성
 
-    1. workspace 먼서 생성방법
+    1. workspace 먼저 생성방법
         
         1. workspace create
         2. project create
         3. workspace에 생성한 project add
-
-    2. project 먼저생성
 
 3. 터미널에서 project가 있는 폴더로 이동
 4. "pod init" (Podfile 생성)
