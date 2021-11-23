@@ -26,8 +26,14 @@
 
 9. 기존에 제외 시킬 파일을 이미 커밋한 후 .gitignore 파일 적용시 
 
-    1. "git rm -r --cached ."
-    2. "git add ."
-    3. "git commit -m "적용할 커밋 메시지" "
+```
+$ git rm -r --cached .
+```
+```
+$ git add .
+```
+```
+$ git commit -m "적용할 커밋 메시지"
+```
 
 명령어 사용해서 기존 커밋파이 제거시키기
