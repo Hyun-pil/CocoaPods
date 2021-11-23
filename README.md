@@ -23,8 +23,11 @@
 7. xworkspace로 xcode 실행.
 
 8.제외 시킬 파일 .gitignore 파일 등록해서 관리
+
 9. 기존에 제외 시킬 파일을 이미 커밋한 후 .gitignore 파일 적용시 
+
     1. "git rm -r --cached ."
     2. "git add ."
     3. "git commit -m "적용할 커밋 메시지" "
+
 명령어 사용해서 기존 커밋파이 제거시키기
